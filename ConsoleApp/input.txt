@@ -1,0 +1,4 @@
+﻿Peter M. Schuler|Musterstr. 12|45444|Essen|D
+Hans Meier|Musterstr. 10|45444|Essen|D
+Egon Müller|BerlinerStr. 12|1234|Warschau|PL
+Egon Müller-Lüdenscheidt|BreslauerWeg 1252|13544|Berlin|D

@@ -1,0 +1,4 @@
+Schuler, Peter M., Musterstr., 12, D, 45444, Essen
+Meier, Hans, Musterstr., 10, D, 45444, Essen
+Müller, Egon, BerlinerStr., 12, PL, 1234, Warschau
+Müller-Lüdenscheidt, Egon, BreslauerWeg, 1252, D, 13544, Berlin
